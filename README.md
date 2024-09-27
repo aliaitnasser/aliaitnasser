@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aliaitnasser
-- 👀 I’m a FullStack Developer (.Net/React) with more than 6 years of experience.
+- 👀 I’m a Senior .Net Developer with over 7 years of experience.
 - 📫 Reach me on LinkedIn https://www.linkedin.com/in/aliaitnasser/ or by email aliii.nassser@gmail.com
 
 <!---
